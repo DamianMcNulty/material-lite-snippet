@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.min.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="node_modules/material-components-web/dist/material-components-web.css">
+]]></content>
+    <tabTrigger>mdc-link</tabTrigger>
+</snippet>

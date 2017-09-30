@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+<a href="#" class="material-icons mdc-toolbar__icon--menu">${1:face}</a>
+]]></content>
+    <tabTrigger>ic</tabTrigger>
+</snippet>

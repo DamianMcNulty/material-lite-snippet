@@ -1,10 +1,29 @@
 <snippet>
     <content><![CDATA[
-<div class="mdl-grid">
-    ${1:<div class="mdl-cell mdl-cell--${2:1}-col">${3:1}</div>}
-    ${4:<div class="mdl-cell mdl-cell--${5:1}-col">${6:1}</div>}
-    ${7:<div class="mdl-cell mdl-cell--${8:1}-col">${9:1}</div>}
+<div class="mdc-grid-list">
+  <ul class="mdc-grid-list__tiles">
+    <li class="mdc-grid-tile">
+      <div class="mdc-grid-tile__primary">
+        <img class="mdc-grid-tile__primary-content" src="my-image.jpg" />
+      </div>
+    </li>
+    <li class="mdc-grid-tile">
+      <div class="mdc-grid-tile__primary">
+        <img class="mdc-grid-tile__primary-content" src="my-image.jpg" />
+      </div>
+    </li>
+    <li class="mdc-grid-tile">
+      <div class="mdc-grid-tile__primary">
+        <img class="mdc-grid-tile__primary-content" src="my-image.jpg" />
+      </div>
+    </li>
+    <li class="mdc-grid-tile">
+      <div class="mdc-grid-tile__primary">
+        <img class="mdc-grid-tile__primary-content" src="my-image.jpg" />
+      </div>
+    </li>
+  </ul>
 </div>
 ]]></content>
-    <tabTrigger>mdl-grid</tabTrigger>
+    <tabTrigger>g</tabTrigger>
 </snippet>
